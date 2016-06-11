@@ -1,0 +1,17 @@
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/obj/Debug/Assembly-CSharp.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/UnityEngine.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/UnityEditor.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/Mono.Cecil.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/Unity.DataContract.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Temp/bin/Debug/Mono.Cecil.Mdb.dll

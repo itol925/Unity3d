@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp-Editor.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Common/Scripts/VIew/NPCView.cs">
+    <Files>
+      <File FileName="Assets/Common/Scripts/NPC.cs" Line="18" Column="17" />
+      <File FileName="Assets/Common/Scripts/VIew/NPCView.cs" Line="4" Column="23" />
+      <File FileName="Assets/Common/Scripts/Model/NPCData.cs" Line="10" Column="2" />
+      <File FileName="Assets/Samples/Btree/Scripts/BehaviourTreeImp/ConditionNodes/ConditionCanAttack.cs" Line="24" Column="1" />
+      <File FileName="Assets/Samples/Btree/Scripts/BehaviourTreeImp/ConditionNodes/ConditionCanEscape.cs" Line="12" Column="9" />
+      <File FileName="Assets/Samples/Btree/Scripts/Btree.cs" Line="74" Column="22" />
+      <File FileName="Assets/Samples/Btree/Scripts/BehaviourTreeImp/Inputs/Input.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Assets/Common/Scripts/VIew/NPCView.cs" line="31" column="1" />
+      <Breakpoint file="/Users/panyinglong/Panyinglong/Projects/git/Unity3d/Samples/Assets/Samples/Btree/Scripts/Btree.cs" line="71" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
